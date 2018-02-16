@@ -5,9 +5,6 @@
  */
 package client;
 
-import builder.builders.BuilderAIG;
-import builder.builders.BuilderCorpo;
-import builder.builders.BuilderNolan;
 import builder.builders.ComplexObject;
 import builder.builders.I_Builder;
 
